@@ -19,4 +19,7 @@ SamLowe/roberta-base-go_emotions (https://huggingface.co/SamLowe/roberta-base-go
 
 ### Outputs
 
+![Screenshot 2024-07-26 at 14 42 41](https://github.com/user-attachments/assets/e5480852-5ae0-49a5-b152-77cd545477bb)
+
+
 ## Summary of findings
